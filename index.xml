@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Byfar Inc.</title>
-    <link>/</link>
+    <link>http://www.byfar.co.jp/</link>
     <description>Recent content on Byfar Inc.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 09 Nov 2015 12:46:06 +0900</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.byfar.co.jp/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Corporate Philosophy</title>
-      <link>/philosophy/</link>
+      <link>http://www.byfar.co.jp/philosophy/</link>
       <pubDate>Mon, 09 Nov 2015 12:46:06 +0900</pubDate>
       
-      <guid>/philosophy/</guid>
+      <guid>http://www.byfar.co.jp/philosophy/</guid>
       <description>
 
 &lt;h2 id=&#34;企業理念:007041aa20bf44bd43eba68b5f650c57&#34;&gt;企業理念&lt;/h2&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Message</title>
-      <link>/message/</link>
+      <link>http://www.byfar.co.jp/message/</link>
       <pubDate>Tue, 10 Nov 2015 10:36:31 +0900</pubDate>
       
-      <guid>/message/</guid>
+      <guid>http://www.byfar.co.jp/message/</guid>
       <description>
 
 &lt;h2 id=&#34;メッセージ:112e275fd30689d2129b85701ef6b3c3&#34;&gt;メッセージ&lt;/h2&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>Company</title>
-      <link>/company/</link>
+      <link>http://www.byfar.co.jp/company/</link>
       <pubDate>Mon, 09 Nov 2015 12:46:06 +0900</pubDate>
       
-      <guid>/company/</guid>
+      <guid>http://www.byfar.co.jp/company/</guid>
       <description>
 
 &lt;h2 id=&#34;会社概要:6987eea426d745ed1851414822c2c6fd&#34;&gt;会社概要&lt;/h2&gt;
@@ -103,10 +103,10 @@
     
     <item>
       <title>Partner</title>
-      <link>/partner/</link>
+      <link>http://www.byfar.co.jp/partner/</link>
       <pubDate>Tue, 10 Nov 2015 00:49:26 +0900</pubDate>
       
-      <guid>/partner/</guid>
+      <guid>http://www.byfar.co.jp/partner/</guid>
       <description>
 
 &lt;h2 id=&#34;主要取引先:da9776fc111ac83fdb887e080e4a550f&#34;&gt;主要取引先&lt;/h2&gt;
@@ -122,10 +122,10 @@
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>http://www.byfar.co.jp/contact/</link>
       <pubDate>Mon, 09 Nov 2015 23:13:21 +0900</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>http://www.byfar.co.jp/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;お問い合わせ:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;お問い合わせ&lt;/h2&gt;
